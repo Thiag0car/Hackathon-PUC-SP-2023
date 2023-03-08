@@ -8,12 +8,15 @@ O Exame Nacional do Ensino Médio (ENEM) é uma das principais formas de acesso 
 SOBRE OS DADOS:
 
 •O conjuntode dados utilizado será os microdadosdo ENEM 2020 do INEP, que inclui informações sobre mais de 5 milhões de estudantes brasileiros que realizaram o exame naquele ano;
+
 •Os dados incluem informações sobre as características socioeconômicas e educacionais dos estudantes, além das notas em cada uma das áreas avaliadas no exame;
+
 •O conjunto de dados sofreu algumas adaptações para essa competição, como por exemplo a limpeza de informações faltantes e o sorteio de instâncias.
 
 SOBRE OS GRUPOS:
 
 •Os grupos deverão conter, na medida do possível, um estudante de cada período (1º, 3º, 5º e 7º)
+
 •Os professores podem alterar a composição de seu grupo depois de formado para equilibrar habilidades e aptidões
 
 TAREFAS: 
@@ -28,5 +31,7 @@ Apresentação dos resultados - Ao final, espera-se que cada grupo faça um pitc
 -> o que foi avaliado?
 
 •As métricas de desempenho do modelo e sua técnica: Iremos avaliar quão bem o seu modelo preveem o desempenho dos estudantes. Além disso, estratégias mais escaláveis para problemas reais irão receber uma avaliação melhor;
+
 •A criatividade da sua solução:Iremosavaliar como você combinou diferentes elementos para otimizar os resultados;
+
 •Suas habilidades de comunicação e apresentação:Iremos avaliar seu estilo de apresentação e comunicação.
