@@ -25,7 +25,8 @@ Avaliação dos modelos - Os participantes devem avaliar a performance dos model
 
 Apresentação dos resultados - Ao final, espera-se que cada grupo faça um pitchdos produtos pensados para responder à pergunta da competição. Até mesmo os calouros irão entrar nessa.
 
-o que foi avaliado?
+-> o que foi avaliado?
+
 •As métricas de desempenho do modelo e sua técnica: Iremos avaliar quão bem o seu modelo preveem o desempenho dos estudantes. Além disso, estratégias mais escaláveis para problemas reais irão receber uma avaliação melhor;
 •A criatividade da sua solução:Iremosavaliar como você combinou diferentes elementos para otimizar os resultados;
 •Suas habilidades de comunicação e apresentação:Iremos avaliar seu estilo de apresentação e comunicação.
