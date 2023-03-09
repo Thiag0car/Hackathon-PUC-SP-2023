@@ -1,3 +1,0 @@
-Dados/train.csv filter=lfs diff=lfs merge=lfs -text
-j.csv filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
