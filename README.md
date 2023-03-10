@@ -35,3 +35,5 @@ Apresentação dos resultados - Ao final, espera-se que cada grupo faça um pitc
 •A criatividade da sua solução:Iremosavaliar como você combinou diferentes elementos para otimizar os resultados;
 
 •Suas habilidades de comunicação e apresentação:Iremos avaliar seu estilo de apresentação e comunicação.
+
+Observação final: projeto feito em apenas uma semana.
