@@ -36,4 +36,4 @@ Apresentação dos resultados - Ao final, espera-se que cada grupo faça um pitc
 
 •Suas habilidades de comunicação e apresentação:Iremos avaliar seu estilo de apresentação e comunicação.
 
-Observação final: projeto feito em apenas uma semana.
+Observasões finais: projeto feito em apenas uma semana. / O caderno com o nosso relatório completo é p "hackathon_final.ipynb"
