@@ -7,7 +7,7 @@ O Exame Nacional do Ensino Médio (ENEM) é uma das principais formas de acesso 
 
 SOBRE OS DADOS:
 
-•O conjuntode dados utilizado será os microdadosdo ENEM 2020 do INEP, que inclui informações sobre mais de 5 milhões de estudantes brasileiros que realizaram o exame naquele ano;
+•O conjunto de dados utilizado será os microdados do ENEM 2020 do INEP, que inclui informações sobre mais de 5 milhões de estudantes brasileiros que realizaram o exame naquele ano;
 
 •Os dados incluem informações sobre as características socioeconômicas e educacionais dos estudantes, além das notas em cada uma das áreas avaliadas no exame;
 
@@ -26,7 +26,7 @@ Treinamento de modelos - Os participantes devem treinar um ou mais modelos de ap
 
 Avaliação dos modelos - Os participantes devem avaliar a performance dos modelos treinados e compará-los entre si
 
-Apresentação dos resultados - Ao final, espera-se que cada grupo faça um pitchdos produtos pensados para responder à pergunta da competição. Até mesmo os calouros irão entrar nessa.
+Apresentação dos resultados - Ao final, espera-se que cada grupo faça um pitch dos produtos pensados para responder à pergunta da competição. Até mesmo os calouros irão entrar nessa.
 
 -> o que foi avaliado?
 
