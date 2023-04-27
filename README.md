@@ -39,4 +39,4 @@ O QUE FOI AVALIADO?
 
   •Suas habilidades de comunicação e apresentação:Iremos avaliar seu estilo de apresentação e comunicação.
 
-OBSERVAÇÕES FINAis: projeto finalizado e feito em apenas uma semana. / O caderno com o nosso relatório completo é o "hackathon_final.ipynb"
+OBSERVAÇÕES FINAIS: projeto finalizado e feito em apenas uma semana. / O caderno com o nosso relatório completo é o "hackathon_final.ipynb"
